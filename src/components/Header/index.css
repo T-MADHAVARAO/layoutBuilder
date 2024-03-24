@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: gray;
+}
